@@ -1,0 +1,2 @@
+# semdmail
+sends email + attachments
